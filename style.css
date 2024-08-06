@@ -1,0 +1,65 @@
+#Html{
+    margin: 50px;
+    cursor: pointer;
+}
+
+#Css{
+    margin: 55px;
+    cursor: pointer;
+}
+
+#Js{
+    margin: 55px;
+    border-radius: 20%;
+    cursor: pointer;
+}
+
+#C{
+    margin: 50px;
+    cursor: pointer;
+}
+
+#Java{
+    margin: 50px;
+    cursor: pointer;
+}
+
+#Ps{
+    margin: 50px;
+    border-radius: 5%;
+    cursor: pointer;
+}
+
+#Dp{
+    padding: 20px;
+    margin: 50px;
+    border-radius: 20%;
+    cursor: pointer;
+}
+
+#Io{
+    margin: 60px;
+    border-radius: 20%;
+    cursor: pointer;
+}
+
+body{
+   font-family: Arial, Helvetica, sans-serif; 
+}
+
+.Bnt button{
+    padding: 10px 40px;
+    font-size: 18px;
+    font-weight: 600;
+    background-color: rgb(56, 20, 102);
+    border: 0;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: .2s;
+}
+
+.Bnt button:hover{
+    transform: scale(1.05);
+    box-shadow: 0 0 20px #086a91;
+    transition: all .2s;
+}
